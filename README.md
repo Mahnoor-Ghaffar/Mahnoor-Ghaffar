@@ -10,7 +10,7 @@
 
 - 🚀 I'm a **Consistent, Hard-working, and a Motivated person.**
 
-- 💬 Ask me about **HTML,CSS,JS,TS,Next.js**
+- 💬 Ask me about **HTML,CSS,JS,TS,Next.js,,python,Agentic AI**
 
 - 📫 How to reach me **mahnoorghaffar9@gmail.com**
 
